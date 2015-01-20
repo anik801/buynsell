@@ -1,0 +1,17 @@
+#footerDiv{
+	text-align: right;
+	margin-right: 1%;
+	margin-left: 1%;
+	
+	width: 98%;
+	position:absolute;
+	bottom:0;
+	right: 0;	
+}
+#footerSpan{
+	color: red;	
+}
+#headerDiv{
+	position:absolute;
+	right:0;
+}
